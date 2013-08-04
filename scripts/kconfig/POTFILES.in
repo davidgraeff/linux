@@ -11,3 +11,11 @@ scripts/kconfig/gconfig/gconf.c
 scripts/kconfig/gconfig/gconf_treeview_model.c
 [type: gettext/glade]scripts/kconfig/gconfig/gconf.ui
 scripts/kconfig/qconfig/qconf.cc
+scripts/kconfig/qconfig/configItem.cc
+scripts/kconfig/qconfig/configModel.cc
+scripts/kconfig/qconfig/configmodeldelegate.cc
+scripts/kconfig/qconfig/infoViewWidget.cc
+scripts/kconfig/qconfig/mainwindow.cc
+scripts/kconfig/qconfig/searchfiltermodelproxy.cc
+scripts/kconfig/qconfig/searchmodel.cc
+[type: gettext/qtdesigner]scripts/kconfig/qconfig/mainwindow.ui
