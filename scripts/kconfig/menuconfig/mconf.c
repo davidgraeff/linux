@@ -19,8 +19,8 @@
 #include <unistd.h>
 #include <locale.h>
 
-#include "lkc.h"
-#include "lxdialog/dialog.h"
+#include "../lkc.h"
+#include "dialog.h"
 
 static const char mconf_readme[] = N_(
 "Overview\n"

@@ -9,7 +9,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-#include "lkc.h"
+#include "../lkc.h"
 #include "nconf.h"
 #include <ctype.h>
 

@@ -43,11 +43,11 @@
 
 #include <stdlib.h>
 
-#include "lkc.h"
+#include "../lkc.h"
 #include "qconf.h"
 
 #include "qconf.moc"
-#include "images.c"
+#include "../images.c"
 
 #ifdef _
 # undef _
