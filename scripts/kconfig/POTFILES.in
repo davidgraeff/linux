@@ -8,5 +8,6 @@ scripts/kconfig/menuconfig/mconf.c
 scripts/kconfig/conf.c
 scripts/kconfig/confdata.c
 scripts/kconfig/gconfig/gconf.c
-scripts/kconfig/gconfig/gconf.glade.h
+scripts/kconfig/gconfig/gconf_treeview_model.c
+[type: gettext/glade]scripts/kconfig/gconfig/gconf.ui
 scripts/kconfig/qconfig/qconf.cc
