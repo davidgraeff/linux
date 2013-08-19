@@ -2,9 +2,12 @@
 # Kernel configuration targets
 # These targets are used from kconfig top-level makefile
 
-PHONY +=  xconfig
+PHONY +=  xconfig qconfig
 
 xconfig: $(obj)/qconf
+	$< $(Kconfig)
+
+qconfig: $(obj)/qconf
 	$< $(Kconfig)
 
 # ===========================================================================
